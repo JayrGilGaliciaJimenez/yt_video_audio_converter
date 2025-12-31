@@ -5,7 +5,7 @@
 ## Requirements
 - Python 3.8+
 - `yt-dlp` (install via `pip install -r requirements.txt`)
-- `ffmpeg` (needed for merging and audio conversion; e.g., `brew install ffmpeg` on macOS)
+- `ffmpeg` (needed for merging and audio conversion; e.g., `brew install ffmpeg` on macOS and you can use winget or choco if you are using Windows)
 
 ## Install
 ```bash
